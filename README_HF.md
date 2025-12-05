@@ -210,12 +210,14 @@ MIT License
 
 - **[Resemble AI](https://www.resemble.ai/)** - Chatterbox base model
 - **ViVoice, PhoAudiobook** - Vietnamese speech datasets
-- **Dolly VN Team** - Fine-tuning và phát triển
+- **[Dolly VN](https://github.com/dolly-vn)** - Speech Team @ **[ContextBoxAI](https://contextbox.ai)**
 
 ---
 
 ## 📧 Contact
 
+- **Organization**: [ContextBoxAI](https://contextbox.ai)
+- **Team**: [Dolly VN](https://github.com/dolly-vn) - Speech Team
 - **GitHub**: [iamdinhthuan/viterbox-tts](https://github.com/iamdinhthuan/viterbox-tts)
 - **HuggingFace**: [dolly-vn/viterbox](https://huggingface.co/dolly-vn/viterbox)
 
@@ -224,8 +226,8 @@ MIT License
 ## 📚 Citation
 
 ```bibtex
-@misc{viterbox2024,
-  author = {Dolly VN},
+@misc{viterbox2025,
+  author = {Dolly VN, ContextBoxAI},
   title = {Viterbox: Vietnamese Text-to-Speech with Voice Cloning},
   year = {2025},
   publisher = {HuggingFace},

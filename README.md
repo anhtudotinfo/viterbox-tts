@@ -263,7 +263,7 @@ audio = tts.generate(
 
 - **Base Model**: [Chatterbox](https://github.com/resemble-ai/chatterbox) by Resemble AI
 - **Datasets**: ViVoice, PhoAudiobook, Dolly-Audio
-- **Fine-tuning**: Dolly VN Team
+- **Fine-tuning**: [Dolly VN](https://github.com/dolly-vn) - Speech Team @ [ContextBoxAI](https://contextbox.ai)
 
 ---
 
@@ -275,7 +275,7 @@ MIT License - Xem file [LICENSE](LICENSE) để biết thêm chi tiết.
 
 <div align="center">
 
-**Made with ❤️ by Dolly VN**
+**Made with ❤️ by [Dolly VN](https://github.com/dolly-vn) @ [ContextBoxAI](https://contextbox.ai)**
 
 [⬆ Về đầu trang](#️-viterbox)
 
