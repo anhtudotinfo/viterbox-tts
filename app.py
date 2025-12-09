@@ -15,6 +15,12 @@ import tempfile, os
 
 os.environ["GRADIO_TEMP_DIR"] = tempfile.gettempdir() + "/my_gradio_tmp"
 os.makedirs(os.environ["GRADIO_TEMP_DIR"], exist_ok=True)
+
+# Fix Windows console encoding for emoji support
+import sys
+if sys.platform == "win32":
+    sys.stdout.reconfigure(encoding='utf-8')
+
 from viterbox import Viterbox
 from viterbox.tts import postprocess_audio
 
